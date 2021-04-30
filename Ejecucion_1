@@ -1,0 +1,91 @@
+Actividad 1
+Crear un algoritmo de preparación de un sándwich
+
+Entradas
+Pan, queso, tomate, lechuga, sal, cuchillo, plato
+Procesos
+Cortar pan a la mitad, cortar el tomate en laminas y agregarlo sobre el pan, agregar sal a gusto, agregar la lechuga, agregar el tomate, tapar el pan con la otra mitad, ponerlo sobre el plato
+Salida
+Pan listo para comer
+
+Actividad Grupal:
+
+Crear algoritmos de los siguientes temas:
+Cambiar la rueda de un auto
+Cambiar un pañal
+Cambiar clave correo electrónico
+
+Cambiar rueda de un auto:
+Entrada
+Gata, llave de cruz, chaleco reflectante, rueda de repuesto, triángulo de emergencia.
+
+Proceso:
+Poner luces de emergencia 
+Orillar el auto a la berma 
+Poner freno de mano y dejarlo enganchado
+Apagar el motor
+Comprobar el estado de las ruedas e identificar la que se encuentra defectuosa
+Abrir maletero y sacar kit de emergencia
+Fijar la gata
+Subir el vehículo
+Comenzar a soltar pernos 
+Levantar con la gata lo que falta (espacio para sacar la rueda y poner la nueva)
+Sacar los pernos
+Dejar los pernos en un lugar visible 
+Sacar la rueda defectuosa
+Dejarla a un lado
+Comenzar a instalar la rueda de repuesto 
+Ajustarla al espacio de los pernos
+Agregar los pernos y dar un semi aprete 
+Bajamos el auto con la gata
+Retiramos la gata
+Llegando al piso terminamos de ajustar los pernos
+Verificamos que esté correctamente ajustado
+Guardamos las herramientas y el triangulo
+Subir al auto nuevamente y continuar el recorrido
+
+Salida
+Auto seguro
+
+
+Cambiarle el pañal a un bebé
+Entrada
+
+Pañal
+Toallas húmedas
+Manta 
+Basurero
+
+Proceso
+
+Poner la manta sobre una superficie adecuada 
+Tener a disposición pañales y toallitas
+Recostar al bebe sobre la manta 
+Retirar la parte inferior de la ropa
+Desabrochar el pañal 
+Retirar el pañal
+Botarlo a la basura
+Limpiar la suciedad con las toallas húmedas
+Botarlas a la basura 
+Ubicar el pañal limpio debajo del bebe 
+Abrochar y asegurar la postura
+Volver a vestir al bebe 
+
+Salida 
+Bebe limpio 
+
+Cambiar la clave del correo electrónico 
+
+Entrada
+Celular, internet, pc o notebook
+
+Proceso
+Ingresar al correo desde el pc o notebook
+Dirigirse al botón de recuperar clave 
+Rectificar los datos de recuperación 
+Ingresar código de acceso de recuperación enviado por mensajería al número de celular inscrito 
+Escribir nueva clave y aceptar
+Cerrar sesión y volver a ingresar con la nueva clave 
+
+Salida
+Clave recuperada
